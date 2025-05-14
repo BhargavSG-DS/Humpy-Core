@@ -1,0 +1,12 @@
+fastapi                 # FastAPI framework
+uvicorn[standard]       # ASGI server
+sqlalchemy              # ORM for PostgreSQL
+pydantic                # Data validation and settings management
+databases[postgresql]   # Async database operations
+python-dotenv           # Environment variable loading
+passlib[bcrypt]         # Password hashing
+pyjwt                   # JWT token handling
+razorpay                # Razorpay payment integration
+alembic                 # Database migrations
+pytest                  # Testing framework
+httpx                   # HTTP client for testing
